@@ -1,0 +1,10 @@
+    if (((i + 1) == 5)) {
+                            FileWriter fw = new FileWriter("2.txt", true);
+                            while (simulation > 0) {
+                                weatherTower.conditionsChanged();
+                                fw.write(flyable.print());
+                                simulation--;
+
+                            }
+                           
+                        }

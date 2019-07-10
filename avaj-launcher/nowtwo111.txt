@@ -1,0 +1,90 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1 1 its snowing 
+Baloon#B2 2 its sunny 
+ JetPlane#J1 3 its sunny
+Helicopter#H1 4 sunny
+Helicopter#H2 5 snowwing
+Helicopter#H3 6 sunny
+Baloon#B3 7 its snowing 
+JetPlane#J2 8 its foggy 
+Helicopter#H4 9 sunny
+Baloon#B1 1 its foggy
+Baloon#B2 2 its foggy
+JetPlane#J1 3 its foggy 
+Helicopter#H1 4 sunny
+Helicopter#H2 5 foggy 
+Helicopter#H3 6 foggy 
+Baloon#B3 7 its foggy
+JetPlane#J2 8 its foggy 
+Helicopter#H4 9 foggy 
+Baloon#B1 1 its rainning
+Baloon#B2 2 its sunny 
+ JetPlane#J1 3 its sunny
+Helicopter#H1 4 snowwing
+Helicopter#H2 5 foggy 
+Helicopter#H3 6 sunny
+Baloon#B2 2 its sunny 
+ JetPlane#J2 8 its sunny
+Helicopter#H4 9 sunny
+Baloon#B2 2 its snowing 
+Baloon#B2 2 its foggy
+JetPlane#J1 3 its foggy 
+Helicopter#H1 4 snowwing
+Helicopter#H2 5 snowwing
+Helicopter#H3 6 Raining
+Baloon#B2 2 its foggy
+JetPlane#J2 8  its snowing
+Helicopter#H4 9 foggy 
+Baloon#B1 1 its snowing 
+Baloon#B2 2 its snowing 
+JetPlane#J1 3 its sunny
+Helicopter#H1 4 snowwing
+Helicopter#H2 5 sunny
+Helicopter#H3 6 foggy 
+Baloon#B3 7 its rainning
+JetPlane#J2 8 its foggy 
+Helicopter#H4 9 sunny
+Baloon#B1 1 its foggy
+Baloon#B2 2 its snowing 
+JetPlane#J1 3 its foggy 
+Helicopter#H1 4 snowwing
+Helicopter#H2 5 sunny
+Helicopter#H3 6 snowwing
+Baloon#B3 7 its snowing 
+JetPlane#J2 8  its snowing
+Helicopter#H4 9 snowwing
+Baloon#B1 1 its foggy
+Baloon#B2 2 its snowing 
+JetPlane#J1 3 its raining
+Helicopter#H1 4 sunny
+Helicopter#H2 5 sunny
+Helicopter#H3 6 foggy 
+Baloon#B3 7 its foggy
+JetPlane#J2 8 its raining
+Helicopter#H4 9 foggy 
+Baloon#B1 1 its foggy
+Baloon#B2 2 its rainning
+JetPlane#J1 3 its raining
+Helicopter#H1 4 snowwing
+Helicopter#H2 5 sunny
+Helicopter#H3 6 Raining
+Baloon#B3 7 its rainning
+JetPlane#J2 8 its sunny
+Helicopter#H4 9 snowwing
+Baloon#B1 1 its snowing 
+Baloon#B2 2 its rainning
+JetPlane#J1 3 its raining
+Helicopter#H1 4 Raining
+Helicopter#H2 5 foggy 
+Helicopter#H3 6 sunny
+Baloon#B3 7 its rainning
+JetPlane#J2 8 its raining
+Helicopter#H4 9 snowwing

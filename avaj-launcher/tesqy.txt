@@ -1,0 +1,72 @@
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its rainning
+Helicopter#B4 5 Raining
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 snowwing
+Ballon#B5 6 its foggy
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 Raining
+Ballon#B5 6 its rainning
+Helicopter#B4 5 sunny
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 snowwing
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its foggy
+Helicopter#B4 5 snowwing
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 Raining
+Ballon#B5 6 its rainning
+Helicopter#B4 5 sunny
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 foggy 
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 sunny
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 foggy 
+Ballon#B5 6 its rainning
+Helicopter#B4 5 Raining
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 sunny
+Ballon#B5 6 its rainning
+Helicopter#B4 5 snowwing
+Ballon#B5 6 its rainning
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its foggy
+Helicopter#B4 5 Raining
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 snowwing
+Ballon#B5 6 its rainning
+Helicopter#B4 5 sunny
+Ballon#B5 6 its foggy
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 snowwing
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 sunny
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 Raining
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 foggy 
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 Raining
+Ballon#B5 6 its rainning
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its foggy
+Helicopter#B4 5 sunny
+Ballon#B5 6 its foggy
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its sunny 
+ Helicopter#B4 5 Raining
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 Raining
+Ballon#B5 6 its foggy
+Helicopter#B4 5 foggy 
+Ballon#B5 6 its snowing 
+Helicopter#B4 5 snowwing
+Ballon#B5 6 its rainning

@@ -1,0 +1,182 @@
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Helicopter#JB11 1 snowwing
+Ballon#JamAirLineOne 2 its foggy
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Helicopter#JB11 1 sunny
+Ballon#JamAirLineOne 2 its rainning
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Helicopter#JB11 1 Raining
+Ballon#JamAirLineOne 2 its rainning
+Helicopter#JB11 1 Raining
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Ballon#JamAirLineOne 2 its snowing 
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(1) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(2) registered to weather tower.
+Tower says: Helicopter#JB11(3) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(4) registered to weather tower.
+Tower says: Helicopter#JB11(5) registered to weather tower.
+Tower says: Baloon#JamAirLineOne(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B3(4) registered to weather tower.
+Tower says: Helicopter#B4(5) registered to weather tower.
+Tower says: Baloon#B5(6) registered to weather tower.
+Tower says: Helicopter#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Helicopter#B3(3) registered to weather tower.
+Tower says: Baloon#B4(4) registered to weather tower.
+Tower says: Helicopter#B5(5) registered to weather tower.
+Tower says: Baloon#B6(6) registered to weather tower.
